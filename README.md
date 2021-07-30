@@ -2,34 +2,24 @@
 
 #Memory Game 
 
- Using -Html, Css, Javascript
+ Using Html, Css, Javascript
  
- -for loops
- 
- -addEventListener
- 
- -setAttribute
- 
- -getAttribute 
- 
- -data-name
- 
- -document.querySelector
- 
- -createElement
+ for loops
+ addEventListener
+ setAttribute
+ getAttribute 
+ data-name
+ document.querySelector
+ createElement
 
 #Whack-a-mole
 
- Using -Html, Css, Javascript
+ Using Html, Css, Javascript
 
- -document.querySelector
- 
- -textContent
- 
- -forEach
- 
- -addEventListener
- 
- -setInterval
- 
- -classList.add
+ document.querySelector
+ textContent
+ forEach
+ addEventListener
+ setInterval
+ classList.add
+
