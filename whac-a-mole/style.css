@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    border: 1px solid darkolivegreen;
+    background: rgba(30, 153, 210, 0.26);
+}
+
+.box {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 0;
+    padding: 0;
+    place-content: center;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+.mole {
+    background-image: url('images/roadrunny.png');
+    background-size: cover;
+}
